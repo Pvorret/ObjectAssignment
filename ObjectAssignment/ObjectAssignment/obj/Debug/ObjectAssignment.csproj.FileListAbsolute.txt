@@ -1,0 +1,12 @@
+C:\_EAL\VisualStudio\Demo\ObjectAssignment\ObjectAssignment\bin\Debug\ObjectAssignment.exe.config
+C:\_EAL\VisualStudio\Demo\ObjectAssignment\ObjectAssignment\bin\Debug\ObjectAssignment.exe
+C:\_EAL\VisualStudio\Demo\ObjectAssignment\ObjectAssignment\bin\Debug\ObjectAssignment.pdb
+C:\_EAL\VisualStudio\Demo\ObjectAssignment\ObjectAssignment\obj\Debug\ObjectAssignment.csprojResolveAssemblyReference.cache
+C:\_EAL\VisualStudio\Demo\ObjectAssignment\ObjectAssignment\obj\Debug\ObjectAssignment.exe
+C:\_EAL\VisualStudio\Demo\ObjectAssignment\ObjectAssignment\obj\Debug\ObjectAssignment.pdb
+C:\Users\Phillip\Documents\GitHub\ProjectIzinga\ObjectAssignment\ObjectAssignment\bin\Debug\ObjectAssignment.exe.config
+C:\Users\Phillip\Documents\GitHub\ProjectIzinga\ObjectAssignment\ObjectAssignment\obj\Debug\ObjectAssignment.exe
+C:\Users\Phillip\Documents\GitHub\ProjectIzinga\ObjectAssignment\ObjectAssignment\obj\Debug\ObjectAssignment.pdb
+C:\Users\Phillip\Documents\GitHub\ProjectIzinga\ObjectAssignment\ObjectAssignment\bin\Debug\ObjectAssignment.exe
+C:\Users\Phillip\Documents\GitHub\ProjectIzinga\ObjectAssignment\ObjectAssignment\bin\Debug\ObjectAssignment.pdb
+C:\Users\Phillip\Documents\GitHub\ProjectIzinga\ObjectAssignment\ObjectAssignment\obj\Debug\ObjectAssignment.csprojResolveAssemblyReference.cache
